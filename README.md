@@ -42,9 +42,9 @@ In short, the client wanted to see **“An analysis of their content categories 
  - - Think about how each column might be relevant to the business question you’re investigating. If you can’t think of why a column may be useful, it may not be worth including it.
 
 **End result will be three cleaned data set :**
- - [Reaction Types](https://github.com/rsturka/Accenture-Data-Analytics-and-Visualization/blob/main/DataSets/ReactionTypes.csv)
  - [Reactions](https://github.com/rsturka/Accenture-Data-Analytics-and-Visualization/blob/main/DataSets/Reactions.csv)
  - [Content](https://github.com/rsturka/Accenture-Data-Analytics-and-Visualization/blob/main/DataSets/Content.csv)
+ - [Reaction Types](https://github.com/rsturka/Accenture-Data-Analytics-and-Visualization/blob/main/DataSets/ReactionTypes.csv)
 
 
  ### Cleaned Data set:
