@@ -58,7 +58,7 @@ In short, the client wanted to see **“An analysis of their content categories 
  - A cleaned dataset
  - Top 5 categories
 
-Data Modelling & The Answer : [Excel](https://github.com/rsturka/Accenture-Data-Analytics-and-Visualization/blob/main/Task%20Two.xlsx)
+Data Modelling & The Answer : [Excel](https://github.com/rsturka/Accenture-Data-Analytics-and-Visualization/blob/main/Task%202%20-%20Data%20Modelling.xlsx)
  
  ## Task - 3
  ### Data Visualization and Storytelling:
