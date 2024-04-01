@@ -48,9 +48,8 @@ In short, the client wanted to see **“An analysis of their content categories 
 
 
  ### Cleaned Data set:
- So, the cleaned data set after data cleaning : [Cleaned Dataset](https://github.com/Sinhaaz/Accenture-Data-Analytics-and-Visualization-Virtual-Internship/blob/main/Cleaned%20Dataset.xlsx)
+ So, the cleaned data set after data cleaning : [Cleaned Dataset](https://github.com/rsturka/Accenture-Data-Analytics-and-Visualization/blob/main/Clean%20Dataset.xlsx)
  
-
 ### Data Modelling:
 
 **Create a final data set by merging 3 tables**
