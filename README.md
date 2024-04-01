@@ -68,7 +68,7 @@ Data Modelling & The Answer : [Excel](https://github.com/rsturka/Accenture-Data-
   >- Pie Chart
   >- Bar Chart
   
- - Powerpoint Presentation : [PPT](https://github.com/Sinhaaz/Accenture-Data-Analytics-and-Visualization-Virtual-Internship/blob/main/PowerPoint%20presentation.pptx)
+ - Powerpoint Presentation : [PPT](https://github.com/rsturka/Accenture-Data-Analytics-and-Visualization/blob/main/Task%203%20-%20Model%20Presentation.pptx)
  
  ## Task - 4
  ### Present to the Client:
