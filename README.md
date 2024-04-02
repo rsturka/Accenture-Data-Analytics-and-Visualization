@@ -1,6 +1,6 @@
 # Accenture-Data-Analytics-and-Visualization
 ## Certificate:
-![Certificate](Certificate.png)
+![Certificate](Certificate.pdf)
 
 ## Task - 1
 ### Project Understanding:
